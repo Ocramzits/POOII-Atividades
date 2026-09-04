@@ -1,5 +1,3 @@
-# 10. Use QHBoxLayout, menu "Ver > Alerta", clique mostra QMessageBox e abre
-#     janela secundária com QLabel atualizado via slot.
 import sys
 from PySide6.QtCore import Signal
 from PySide6.QtGui import QAction

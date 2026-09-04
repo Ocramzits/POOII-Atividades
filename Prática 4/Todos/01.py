@@ -1,6 +1,3 @@
-# 1. Crie QMainWindow com QVBoxLayout, QToolBar ("Nova Janela"), menu
-#    "Arquivo > Abrir Diálogo", ao clicar abre QDialog com QMessageBox de
-#    boas-vindas e sinal que atualiza QLabel da principal.
 import sys
 from PySide6.QtCore import Qt, Signal
 from PySide6.QtGui import QAction

@@ -1,5 +1,3 @@
-# 9. Adicione QAction "Diálogo" na toolbar que abre QDialog modal com alert
-#    dentro e evento closeEvent que atualiza statusBar.
 import sys
 from PySide6.QtGui import QAction
 from PySide6.QtWidgets import (

@@ -1,5 +1,3 @@
-# 7. Crie QDialog com QLineEdit, botão OK mostra QMessageBox e fecha,
-#    enviando texto via sinal para QLabel da principal.
 import sys
 from PySide6.QtCore import Signal
 from PySide6.QtWidgets import (

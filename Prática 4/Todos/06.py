@@ -1,5 +1,3 @@
-# 6. Use menu "Janela > Nova" que abre QMainWindow secundária com QToolBar e
-#    botão que dispara QMessageBox.
 import sys
 from PySide6.QtGui import QAction
 from PySide6.QtWidgets import (

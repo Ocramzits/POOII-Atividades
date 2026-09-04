@@ -1,5 +1,3 @@
-# 3. Configure QGridLayout, QToolBar com "Alert", menu "Editar", clique em
-#    QAction mostra QMessageBox.question e, se Yes, abre QDialog.
 import sys
 from PySide6.QtGui import QAction
 from PySide6.QtWidgets import (

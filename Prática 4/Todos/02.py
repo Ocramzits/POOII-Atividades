@@ -1,5 +1,3 @@
-# 2. Use QHBoxLayout, QAction no menu "Ajuda > Sobre" que mostra QMessageBox,
-#    e botão que abre janela secundária simples.
 import sys
 from PySide6.QtGui import QAction
 from PySide6.QtWidgets import (

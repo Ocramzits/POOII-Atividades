@@ -1,5 +1,3 @@
-# 5. Adicione QPushButton em QDialog, ao aceitar mostra QMessageBox e emite
-#    sinal para QTableWidget na janela principal.
 import sys
 from PySide6.QtCore import Signal
 from PySide6.QtWidgets import (

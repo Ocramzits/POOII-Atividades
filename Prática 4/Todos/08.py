@@ -1,9 +1,3 @@
-# 8. Configure QVBoxLayout + QToolBar, menu "Arquivo > Sair" mostra
-#    QMessageBox.confirm e, se sim, fecha todas janelas.
-#
-# Observação: o método correto no PySide6 é QMessageBox.question() — não
-# existe QMessageBox.confirm(). Usamos question() com botões Yes/No, que é
-# o jeito padrão de pedir confirmação no Qt.
 import sys
 from PySide6.QtGui import QAction
 from PySide6.QtWidgets import (

@@ -1,5 +1,3 @@
-# 4. Crie QStackedLayout na principal, QAction "Janela 2" no toolbar abre
-#    janela secundária que envia sinal para trocar página.
 import sys
 from PySide6.QtCore import Signal
 from PySide6.QtGui import QAction
